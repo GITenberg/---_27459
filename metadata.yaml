@@ -1,0 +1,28 @@
+_repo: '---_27459'
+_version: 0.1.0
+alternative_title: Er shi lu
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Yue, Jun
+    alias: 樂鈞
+    birthdate: 1766
+    deathdate: 1814
+    gutenberg_agent_id: '32701'
+    url: http://www.gutenberg.org/2009/agents/32701
+description: ''
+gutenberg_issued: '2008-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27459'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese fiction -- Qing dynasty, 1644-1912'
+- !lcc 'PL'
+title: 耳食錄
+url: http://www.gutenberg.org/ebooks/27459
